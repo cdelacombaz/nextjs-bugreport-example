@@ -1,4 +1,6 @@
-# Description
+# Bug Report
+
+## Working example on "main" branch
 
 I am trying to upgrade my packages. Most importantly, NextJS from 10.0.3 to 12.0.3.
 
@@ -14,3 +16,6 @@ This is a working example with my current versions.
     "react-dom": "17.0.1"
   }
 ```
+
+## Example with upgraded versions resulting in error on "bugreport" branch
+
