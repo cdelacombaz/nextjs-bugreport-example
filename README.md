@@ -17,5 +17,13 @@ This is a working example with my current versions.
   }
 ```
 
+## Example with upgraded versions where it is still working on "stillWorking" branch
+
+I tried to upgrade to next@latest directly, then went down to 11 to finally find out that the latest version which was
+working with this setup is v10.1.3.
+
 ## Example with upgraded versions resulting in error on "bugreport" branch
 
+Upgrading Next to v10.2 or any higher results in following error message: `Module not found: Can't resolve '@formatjs/intl-pluralrules/polyfill/'
+
+I also tried to upgrade the @formatjs packages to latest versions, but still get the same error.
